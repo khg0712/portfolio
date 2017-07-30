@@ -57,5 +57,9 @@ body {
   text-align: center;
   float: left;
   display: inline-block;
+}
 
+.typewrite {
+  text-decoration: none;
+  color: black;
 }
